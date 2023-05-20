@@ -20,7 +20,6 @@ def game():
             numders.remove(num)
             mystery.append(num)
             digits_count -= 1
-        print(mystery)
 
         while True:  #Зацикливаем возможность пользователя угадывать число
 
